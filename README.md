@@ -6,7 +6,6 @@ A Next.js web application that uses an AI assistant to manage local files throug
 
 -   **File & Folder Uploads**: Upload files and folders using Server Actions.
 -   **AI Chat Interface**: Use natural language to create, read, list, and delete files.
--   **Secure by Design**: The AI operates in a sandboxed `uploads` directory.
 -   **Automatic Updates**: The file browser automatically refreshes after any operation.
 -   **Modern Stack**: Built with Next.js App Router, Server Actions, and Tailwind CSS.
 
